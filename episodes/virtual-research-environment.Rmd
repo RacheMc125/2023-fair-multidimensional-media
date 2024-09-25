@@ -26,7 +26,7 @@ sharing data with the same community of practice.
 ## Virtual Research Environments (VRE)
 
 VREs make it easy for teams across
-organisations to collaborate in data-driven research process.
+organisations to collaborate in a data-driven research process.
 We will use [D4Science](https://services.d4science.org/) in this lesson.
 
 For example, a project that you are developing with friends/colleagues
@@ -43,9 +43,9 @@ Information can include:
 
 - Mapping the geographical areas which were inhabited in Brighton
 as well as any roads.
-- What architecture did larger and smaller buildings had?
+- What architecture did larger and smaller buildings have?
 - How did people dress?
-- What activities they did?
+- What activities people did?
 
 To enable collaboration and support FAIR principles,
 Virtual Research Environments (VRE) can be useful.
@@ -94,14 +94,14 @@ See below.
 The VRE offers the following capabilities:
 
 - **Workspace**: enables members to store and share data securely.
-- **Mailing System and Forum**: enable members to community
+- **Mailing System and Forum**: enable members to communicate
 one-to-one or as a community.
 - **Data Analytics**: enable members to access
 cloud computing facilities to collaborate
 in developing and applying data-algorithms.
 
-To test some of these access in the main interface, the
-menu bar at the top showing the **Workspace** and an **Analytics**
+To test some of these in the main interface, find the
+menu bar at the top showing the **Workspace** and **Analytics**
 menu items. Click on any of them to access this
 functionality.
 
@@ -110,7 +110,7 @@ functionality.
 Click on **Workspace**.
 
 ## Workspace 
-The workspace allows a member to create and share folder, 
+The workspace allows a member to create and share folders, 
 as well as upload files.
 
 It facilitates on-line file sharing across organisations.
@@ -136,10 +136,10 @@ person in the group.
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-The functionality that the workspace provides include:
+The functionalities that the workspace provides include:
 
 - Preview the file.
-- Get basic information - note that vary basic metadata, such as name,
+- Get basic information - note that very basic metadata, such as name,
 ID, and type are supported. There is a description field which allows
 for recording additional metadata.
 - Version number, as the owner of a file can replace the file keeping
@@ -171,11 +171,11 @@ including Python, Java, R, Julia, and Scala.
 The *Notebooks* environment are increasingly used
 by researchers where they can combine text, 
 mathematics, computations and rich media output. It requires
-of a special language for formatting text known as [markup](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html).
+a special language for formatting text known as [markup](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html).
 
-The environment also support basic editing of text-data 
+The environment also supports basic editing of text-data 
 and the implementation of 
-data processing algorithms using high-performance back end computers.
+data processing algorithms using high-performance back-end computers.
 
 :::::::::: challenge
 
@@ -184,7 +184,7 @@ accessing a virtual server.
 
 This will create a 'virtual' machine.
 
-You should find a Navigate to the folder where you created by clicking
+Navigate to the folder you created by clicking
 on the folder icon on the left menu.
 
 ![Workspace folders menu](fig/D4Science_notebook.png){alt="folder"}
@@ -200,7 +200,7 @@ Change its name and save it.
 :::::::::: keypoints
 
 
-- Multidimensional media requires good management, to underpin collaboration and open access/science processes. 
+- Multidimensional media requires good management to underpin collaboration and open access/science processes. 
 
 - Virtual Research Environments (VREs) are collaborative spaces 
 for data-driven research. 
