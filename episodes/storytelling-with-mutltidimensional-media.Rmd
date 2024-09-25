@@ -1,12 +1,12 @@
 ---
-title: 'Storytelling with Mutltidimensional Media'
+title: 'Storytelling with Multidimensional Media'
 teaching: 10
 exercises: 2
 ---
 
 
 During this exercise you will curate a story bringing together multidimensional 
-media using [Exhibit](https://www.exhibit.so/) tool.
+media using the [Exhibit](https://www.exhibit.so/) tool.
 
 The example below shows a story of the Kinora, which was an 
 early motion picture device developed by the French inventors Auguste and Louis Lumière 
@@ -14,7 +14,7 @@ in 1895.
 
 The story brings together images, videos and 3D models to illustrate the
 history of these artefacts, their context and mechanics. The media 
-with which this story as developed is available [here](https://data.d4science.org/workspace-explorer-app?folderId=MUVkZVY5L1hRYnV4ZzJiUVljVlk5U1hmOHZYaDQ1SGVZT0l6aUZGa2lEclVFT0ppWEo4VDRzU2Z0alNiSk5GTg). 
+with which this story was developed is available [here](https://data.d4science.org/workspace-explorer-app?folderId=MUVkZVY5L1hRYnV4ZzJiUVljVlk5U1hmOHZYaDQ1SGVZT0l6aUZGa2lEclVFT0ppWEo4VDRzU2Z0alNiSk5GTg). 
 
 You can also view the story
 here: [https://www.exhibit.so/exhibits/zrHKbV2wqdpcRyfVW05M](https://www.exhibit.so/exhibits/zrHKbV2wqdpcRyfVW05M)
@@ -45,7 +45,7 @@ Create the JSON file using the editor, and upload it alongside the media content
 in D4Science. Then you can provide this JSON url to Exhibit.
 
 To create the JSON, use the following JSON files as examples. 
-Pasting the URL links to the in the [Digirati Manifest Editor](https://manifest-editor.digirati.services/) interface:
+Paste the URL links into the [Digirati Manifest Editor](https://manifest-editor.digirati.services/) interface:
 
 
 - Image: [https://data.d4science.org/shub/E_RjlleHRKM1A3TTUzR0ZiYW1vcjFtNWVyY0JPTzU0djdDNzMrV09LMWgzenF4K0lYc0MzNnZud3BNSHZrK3ZWdQ==](https://data.d4science.org/shub/E_RjlleHRKM1A3TTUzR0ZiYW1vcjFtNWVyY0JPTzU0djdDNzMrV09LMWgzenF4K0lYc0MzNnZud3BNSHZrK3ZWdQ==)
